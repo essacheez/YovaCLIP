@@ -19,3 +19,11 @@ rigorous experimentation and evaluation, we demonstrate the
 effectiveness and reliability of our proposed method, offering
 a promising tool for forest fire management and conservation
 efforts.
+
+
+<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
+<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
+
+
+## YovaCLIP Pipeline
+<img src="pipeline.jpeg" alt="Pipeline" width="250" height="300">
