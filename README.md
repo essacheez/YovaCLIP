@@ -20,10 +20,13 @@ effectiveness and reliability of our proposed method, offering
 a promising tool for forest fire management and conservation
 efforts.
 
-
-<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
-<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
-
+<!-- This is a comment in HTML 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="fire.png" alt="Fire Bounding Box" width="300" height="200" style="margin-right: 20px;">
+    <img src="pipeline.jpeg" alt="Pipeline" width="300" height="200">
+</div>
+-->
+<img src="fire.png" alt="Fire Bounding Box" width="500" height="500">
 
 ## YovaCLIP Pipeline
-<img src="pipeline.jpeg" alt="Pipeline" width="250" height="300">
+<img src="pipeline.jpeg" alt="Pipeline" width="500" height="600">
