@@ -21,8 +21,7 @@ a promising tool for forest fire management and conservation
 efforts.
 
 
-![Fire Bounding Box](fire.png = 250x250)
-
+<img src="fire.png" alt="Fire Bounding Box" width="250" height="250">
 
 ## YovaCLIP Pipeline
-![Pipeline](pipeline.jpeg = 250x250)
+<img src="pipeline.jpeg" alt="Pipeline" width="250" height="300">
