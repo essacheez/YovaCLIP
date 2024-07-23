@@ -19,3 +19,6 @@ rigorous experimentation and evaluation, we demonstrate the
 effectiveness and reliability of our proposed method, offering
 a promising tool for forest fire management and conservation
 efforts.
+
+
+![Fire Bounding Box](fire.png)
