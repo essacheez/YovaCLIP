@@ -22,3 +22,7 @@ efforts.
 
 
 ![Fire Bounding Box](fire.png)
+
+
+## YovaCLIP Pipeline
+![Pipeline](pipeline.jpeg)
