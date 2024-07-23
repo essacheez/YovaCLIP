@@ -30,6 +30,6 @@ efforts.
 ## YovaCLIP Pipeline & Training
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="pipeline.jpeg" alt="Pipeline" width="500" height="500" style="margin-right: 20px;">
-    <img src="ytrain.jpg" alt="Training" width="500" height="500">
+    <img src="ytrain.png" alt="Training" width="500" height="500">
 </div>
 =
