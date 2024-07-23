@@ -21,8 +21,11 @@ a promising tool for forest fire management and conservation
 efforts.
 
 
-<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
-<img src="fire.png" alt="Fire Bounding Box" width="350" height="350">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="fire.png" alt="Fire Bounding Box" width="300" height="200" style="margin-right: 20px;">
+    <img src="pipeline.jpeg" alt="Pipeline" width="300" height="200">
+</div>
+
 
 
 ## YovaCLIP Pipeline
