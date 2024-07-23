@@ -9,7 +9,7 @@ early detection of forest fires. The approach utilises the benefits
 of Large Multi-Models (LMM) and the You Only Look Once
 (YOLO) model for accurate and robust forest fire detection from
 surveilling cameras in forest areas. This methodology, leveraging
-the comprehensive feature extraction of LMMs and real time object detection of YOLO, aims to improve accuracy and efficiency
+the comprehensive feature extraction of LMMs and real time object detection of YOLO, aims to improve accuracy and efficiency
 of fire and smoke detection in these environments. The fusion
 of these 2 mechanisms allows them to compliment each other
 and filling in the gaps/weaknesses of both models. By detecting
