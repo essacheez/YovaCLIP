@@ -29,4 +29,4 @@ efforts.
 <img src="fire.png" alt="Fire Bounding Box" width="500" height="500">
 
 ## YovaCLIP Pipeline
-<img src="pipeline.jpeg" alt="Pipeline" width="500" height="700">
+<img src="pipeline.jpeg" alt="Pipeline" width="500" height="600">
